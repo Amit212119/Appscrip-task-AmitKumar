@@ -15,6 +15,7 @@
 .footer-subscribe {
   display: flex;
   flex-direction: column;
+  width: 50%;
 }
 
 .subscribe {
@@ -28,7 +29,8 @@
   width: 384px;
   padding: 14px 24px 14px 24px;
   gap: 8px;
-  opacity: 0px;
+  opacity: 1!important;
+  width: 80%;
 }
 
 .footer-subscribe button {
