@@ -2,10 +2,11 @@
   position: relative;
   display: inline-block;
   width: 100px;
+  margin-bottom: 8px;
 }
 
 .language-dropdown .dropdown-toggle {
-  padding: 10px 20px;
+  padding: 10px 15px;
   font-size: 16px;
   font-weight: 700;
   color:  #252020;
